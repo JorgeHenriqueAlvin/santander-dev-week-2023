@@ -1,3 +1,12 @@
+# Santander Dev Week 2025
+
+Java Restful API criada para a sandanter Dev Week.
+
+## Diagrama de classes
+
+
+---mermaid
+
 classDiagram
     class User {
         +String name
