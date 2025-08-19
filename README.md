@@ -5,7 +5,7 @@ Java Restful API criada para a sandanter Dev Week.
 ## Diagrama de classes
 
 
----mermaid
+--- mermaid
 
 classDiagram
     class User {
